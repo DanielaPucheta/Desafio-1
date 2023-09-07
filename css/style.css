@@ -1,0 +1,43 @@
+
+img{
+    width: 120px;
+    height: 120px;
+    }
+      
+.box-violet{
+    display:inline-block;
+    border: double mediumslateblue;
+    position:  relative;
+    left: 300px;
+    top: 100px;
+    border-radius: 5%;
+    background-color: rgb(236, 145, 191);
+    margin: 5px;
+    padding: 2px;
+    
+ }
+    
+ body{
+    position: absolute;
+ }   
+
+html{
+    font-size: 20px;    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: darkmagenta;
+     position: relative;
+}
+
+h3{
+    border: double mediumslateblue;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    bottom: 40px;
+    background-color: aliceblue;
+}
+p{
+    position: relative;
+    top: 100px;
+}
